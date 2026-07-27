@@ -39,4 +39,8 @@ See [`four_servos_sweep_then_hold.ino`](./four_servos_sweep_then_hold.ino) for t
 4. Click **Start Simulation** to observe the servos sweep for 2 seconds, then hold at 90°.
 
 ## Author
-Task completed as part of the SmartMethods (الأساليب الذكية) training program.
+
+Hind Almutairi
+
+Computer Science Student
+
