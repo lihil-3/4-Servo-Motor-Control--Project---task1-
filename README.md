@@ -30,7 +30,7 @@ This project programs **4 servo motors** using an Arduino (simulated on Tinkerca
 - The `loop()` function is left empty since no further action is needed after the servos are set to hold position.
 
 ## Code
-See [`four_servos_sweep_then_hold.ino`](./four_servos_sweep_then_hold.ino) for the full Arduino sketch.
+See [`four_servos_sweep_then_hold.ino`]([./four_servos_sweep_then_hold.ino](https://www.tinkercad.com/things/atn348yqXrv/editel?returnTo=%2Fdashboard%2Fdesigns%2Fcircuits&sharecode=0eKTZfvaXV79jWiwMnYhrZvpkSt6D8XffJaArWgfvI0)) for the full Arduino sketch.
 
 ## How to Run (Tinkercad)
 1. Create a new circuit in Tinkercad and add an Arduino Uno + 4 servo motors.
